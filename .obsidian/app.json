@@ -1,0 +1,10 @@
+{
+  "attachmentFolderPath": "public/images",
+  "showLineNumber": true,
+  "userIgnoreFilters": [
+    "components/",
+    "lib/",
+    "pages/",
+    "styles/"
+  ]
+}
