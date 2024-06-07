@@ -13,13 +13,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/another-blog-post.md",
+                "file": "posts/yet-another-blog-post.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "04b966b46e616f81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/a-blog-post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84732a8b778bc93f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/another-blog-post.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/another-blog-post.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/another-blog-post.md"
+                "file": "README.md"
               }
             }
           }
@@ -145,11 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14d84924d3d67192",
+  "active": "84732a8b778bc93f",
   "lastOpenFiles": [
-    "posts/a-blog-post.md",
+    "templates/blogTemplate.md",
+    "posts/Think fast, speak smart.md",
     "posts/yet-another-blog-post.md",
-    "mangopi.jpg",
-    "posts/another-blog-post.md"
+    "posts/a-blog-post.md",
+    "posts/another-blog-post.md",
+    "Untitled 1.md",
+    "templates",
+    "README.md",
+    "mangopi.jpg"
   ]
 }
