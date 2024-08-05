@@ -44,8 +44,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "posts/yet-another-blog-post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "posts/yet-another-blog-post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "posts/yet-another-blog-post.md"
               }
             }
           }
@@ -171,16 +170,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84732a8b778bc93f",
+  "active": "14d84924d3d67192",
   "lastOpenFiles": [
+    "posts/a-blog-post.md",
+    "README.md",
     "templates/blogTemplate.md",
     "posts/Think fast, speak smart.md",
     "posts/yet-another-blog-post.md",
-    "posts/a-blog-post.md",
     "posts/another-blog-post.md",
     "Untitled 1.md",
     "templates",
-    "README.md",
     "mangopi.jpg"
   ]
 }
