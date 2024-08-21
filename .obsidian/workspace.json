@@ -43,8 +43,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "cce4cc839dcb8489",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,7 +181,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ff742060f28e33d",
+  "active": "cce4cc839dcb8489",
   "lastOpenFiles": [
     "posts/a-blog-post.md",
     "README.md",
